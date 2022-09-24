@@ -10,7 +10,7 @@
 
 ![name](https://img.shields.io/badge/Vimal--Kumar-lightgrey)
 
-## Color Changer [Live Link](https://name-conversion-js.netlify.app/)
+## Color Changer [Live Link](https://color-changer-js.netlify.app/)
 
 - Skills Gained in this project
 
